@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @iaskari
 - 👀 I’m interested in all new technologies
-- 🌱 I’m currently learning Clean Architecture,CI/CD
 - 💞️ I’m looking to collaborate on whatever give me possibility to start in Github Collaboration
 - 📫 How to reach me odahhane@gmail.com
 
